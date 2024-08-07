@@ -1,0 +1,74 @@
+.main-section {
+    font-family: "Manrope", sans-serif;
+    margin: 50px 200px;
+}
+
+.section-1 {
+    border: 2px solid red;
+}
+
+.section-1-1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.section-1-1-1 img {
+    width: 290px;
+}
+
+.section-1-1-2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: bold;
+
+}
+
+.section-1-1-2 li {
+    list-style: none;
+    gap: 50px;
+}
+
+.section-1-1-2-1 {
+    display: flex;
+    gap: 50px;
+    list-style: none;
+}
+
+.responsive-2 {
+    display: none;
+}
+
+
+
+
+@media screen and (max-width:400px) {
+
+    .main-section {
+        border: 2px solid red;
+        margin: 16px;
+    }
+
+    .responsive-1 {
+        display: none;
+    }
+
+    .responsive-2 {
+        display: inline;
+    }
+
+    .section-1-1-1 img {
+        width: 200px;
+    }
+
+
+
+
+
+
+
+
+
+
+}
