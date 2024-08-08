@@ -492,6 +492,7 @@
 
     .responsive-1 {
         display: inline-flex;
+        font-weight: bold;
     }
 
     .responsive-2 {
@@ -499,7 +500,7 @@
     }
 
     .section-1-1-1 img {
-        width: 150px;
+        width: 300px;
     }
 
     /* section-2 */
@@ -517,7 +518,7 @@
     }
 
     .section-2-1-1 h1 {
-        font-size: 2rem;
+        font-size: 3rem;
     }
 
     .section-2-1-1 p {
