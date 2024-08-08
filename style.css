@@ -56,6 +56,10 @@
     align-items: center;
 }
 
+.section-2-1-1 span {
+    color: #A4BC46;
+}
+
 .section-2-1-1 h1 {
     font-size: 4rem;
 }
@@ -141,7 +145,8 @@
 
 .section-7-1-1-1 {
     border-radius: 8px;
-    background-color: beige;
+    background-color: #faffe7;
+
     padding: 10px;
     display: flex;
     justify-content: center;
