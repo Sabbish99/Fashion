@@ -329,7 +329,7 @@
 }
 
 
-@media screen and (max-width:800px) {
+@media screen and (min-width:577px) and (max-width:999px) {
 
     .main-section {
 
@@ -482,7 +482,8 @@
 
 }
 
-@media screen and (min-width:801px) {
+
+@media screen and (min-width:1000px) {
 
     .main-section {
 
